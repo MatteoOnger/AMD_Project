@@ -3,7 +3,7 @@
 This repository contains all the material related to the project for the course of <i>Algorithms for Massive Datasets</i>:
 <ul>
 <li>Instructor: <b>Prof. Malchiodi Dario</b>
-<li>Project 2: <b>Finding Similar Items</b>
+<li>Project: <b>Finding Similar Items</b>
 </ul>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
